@@ -6,7 +6,6 @@ Soy un desarrollador web con un gran interés en el mundo de la tecnología. Con
 
 Habilidades: NEXT JS / NODE JS / EXPRESS / REACT / JS / HTML / CSS 
 
-- 🔭 Estoy trabajando en this page. 
 - 🌱 Estoy aprendiendo Eletron js 
 
 
