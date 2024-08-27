@@ -1,6 +1,6 @@
 ### Hola 👋, Soy Brayan Andrés
 #### Web Developer 
-![Web Developer ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Web Developer ](https://github.com/Brayan-Manco/Brayan-Manco/issues/2#issue-2488043226)
 
 Soy un desarrollador web con un gran interés en el mundo de la tecnología. Continuamente, estoy perfeccionando mis conocimientos en lenguajes y herramientas como HTML, CSS, y JavaScript, y explorando nuevas áreas como el desarrollo de aplicaciones web. Estoy siempre buscando maneras de aplicar lo que aprendo en proyectos prácticos y colaborativos.
 
