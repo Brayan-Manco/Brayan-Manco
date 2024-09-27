@@ -9,6 +9,6 @@ Habilidades: NEXT JS / NODE JS / EXPRESS / REACT / JS / HTML / CSS
 
 - 🌱 Estoy aprendiendo Eletron js 
 
-[<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg](https://my-portfolio-brayan.vercel.app/avatar.jpg)' alt='website' height='40'>](https://my-portfolio-brayan.vercel.app)  
+[<img src='[(https://my-portfolio-brayan.vercel.app/avatar.jpg)]' alt='website' height='40'>](https://my-portfolio-brayan.vercel.app)  
 
 
