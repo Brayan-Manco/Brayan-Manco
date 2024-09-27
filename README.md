@@ -1,6 +1,7 @@
 ## Hola 👋, Soy Brayan Andrés
 ##### Web Developer 
-![Web Developer ](https://private-user-images.githubusercontent.com/111899200/361615602-9c2be094-c4de-4a07-91d3-a33c8c0a8b4e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjc0NDAxMzUsIm5iZiI6MTcyNzQzOTgzNSwicGF0aCI6Ii8xMTE4OTkyMDAvMzYxNjE1NjAyLTljMmJlMDk0LWM0ZGUtNGEwNy05MWQzLWEzM2M4YzBhOGI0ZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwOTI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDkyN1QxMjIzNTVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05ZDhjYTQwNWI5NjljMmZjMjJiNzY3ZTliZTQ5ODg0Yzk5MWM1ZDAzMGFkY2VhNzNiZWNjODhiNDRjOWI1ODY5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.Cd7XOLbyHcrZoRZbxkQTTsa-qyApJADsRL0NWEtp6Sc)
+
+![avatarV2](https://github.com/user-attachments/assets/20b8db01-aec9-48f0-bb8f-e3399a45b8f8)
 
 Soy un desarrollador web con un gran interés en el mundo de la tecnología. Continuamente, estoy perfeccionando mis conocimientos en lenguajes y herramientas como HTML, CSS, y JavaScript, y explorando nuevas áreas como el desarrollo de aplicaciones web. Estoy siempre buscando maneras de aplicar lo que aprendido en proyectos prácticos y colaborativos.
 
