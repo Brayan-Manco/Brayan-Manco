@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/20b8db01-aec9-48f0-bb8f-e3399a45b8f8" alt="avatarV2" width="300" style="border-radius: 50%; box-shadow: 0 0 25px rgba(0,0,0,0.3); border: 5px solid #3B82F6; margin: 25px 0;"/>
+  <img src="https://github.com/user-attachments/assets/20b8db01-aec9-48f0-bb8f-e3399a45b8f8" alt="avatarV2" width="100%" style="border-radius: 50%; box-shadow: 0 0 25px rgba(0,0,0,0.3); border: 5px solid #3B82F6; margin: 25px 0;"/>
 </div>
 
 ## 👨‍💻 Sobre mí
