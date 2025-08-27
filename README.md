@@ -91,11 +91,6 @@ Soy un desarrollador Full Stack con más de 3 años de experiencia en el desarro
 - 🚀 Cloud Computing y DevOps practices
 - 🌐 Web3 y tecnologías blockchain
 
-### Certificaciones
-- AWS Certified Developer - Associate
-- MongoDB Certified Developer
-- Scrum Master Certified
-
 </div>
 
 ## 🤝 Colaboración y Contacto
