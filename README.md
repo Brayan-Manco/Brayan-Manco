@@ -101,5 +101,5 @@ Soy un desarrollador Full Stack con más de 3 años de experiencia en el desarro
 
 <div style="background: #F3F4F6; padding: 20px; border-radius: 10px; margin: 20px 0; text-align: center;">
   <p>💼 Abierto a oportunidades de colaboración en proyectos innovadores</p>
-  <p>📧 Contacto profesional: tu.email@ejemplo.com</p>
+  <p>📧 Contacto profesional: manco300mz@gmail.com</p>
 </div>
