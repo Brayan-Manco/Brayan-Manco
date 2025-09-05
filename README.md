@@ -10,7 +10,7 @@
 ## 👨‍💻 Sobre mí
 
 <div style="background: #F3F4F6; padding: 25px; border-radius: 12px; margin: 25px 0; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-Soy un desarrollador Full Stack con más de 1 años de experiencia en el desarrollo de aplicaciones web y móviles. Mi pasión por la tecnología y la innovación me impulsa a crear soluciones robustas y escalables que resuelven problemas reales. Me especializo en arquitecturas modernas y metodologías ágiles, siempre buscando la excelencia técnica y la mejor experiencia de usuario.
+Soy un desarrollador Full Stack con más de 1 año de experiencia en el desarrollo de aplicaciones web. Mi pasión por la tecnología y la innovación me impulsa a crear soluciones robustas y escalables que resuelven problemas reales. Me especializo en arquitecturas modernas y metodologías ágiles, siempre buscando la excelencia técnica y la mejor experiencia de usuario.
 
 💡 **Áreas de especialización:**
 - Desarrollo de aplicaciones web full-stack
